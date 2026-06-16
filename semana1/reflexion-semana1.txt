@@ -1,0 +1,6 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+R//Como estudiante de Comunicación Social, considero que existe una relación muy estrecha entre el uso responsable de la información en internet, la participación ciudadana y el trabajo colaborativo con herramientas como Git. En comunicación aprendemos que la información tiene un impacto directo en la manera en que las personas comprenden la realidad y participan en la sociedad, por lo que es fundamental verificar las fuentes y compartir contenidos de forma responsable.
+
+Actualmente, vemos cómo la desinformación y las noticias falsas pueden influir en debates políticos y sociales, afectando la toma de decisiones de los ciudadanos. Por eso, la participación ciudadana en los entornos digitales debe estar acompañada de pensamiento crítico y responsabilidad.
+
+De igual manera, herramientas como Git promueven la organización, la transparencia y el trabajo colaborativo, ya que permiten registrar los cambios realizados por cada integrante de un proyecto.
