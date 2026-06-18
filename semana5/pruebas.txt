@@ -1,0 +1,3 @@
+en pla pirmera sale: servidor activo
+en la otra: "hola comunidad"
+en la otra: "hola Juan"
