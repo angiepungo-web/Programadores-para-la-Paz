@@ -1,0 +1,1 @@
+Al consultar GET /reportes, el servidor devuelve un array con todos los reportes registrados. Cada reporte incluye un id único, el tipo de incidencia y su descripción. Esto permite a la comunidad ver en tiempo real qué problemas han sido reportados.
