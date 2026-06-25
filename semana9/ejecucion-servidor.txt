@@ -1,0 +1,2 @@
+aparece: Servidor activo y funcionando
+despues aparece: {"estado":"Servidor funcionando","servicio":"API comunitaria"}

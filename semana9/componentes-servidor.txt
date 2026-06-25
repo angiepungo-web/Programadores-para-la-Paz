@@ -1,0 +1,5 @@
+Sistema operativo — Es el software principal que controla todo el hardware de la computadora y permite que otros programas funcionen. Ejemplos: Linux, Windows, macOS. Es la base sobre la cual se ejecuta todo.
+Node.js — Es un entorno de ejecución que permite correr código JavaScript fuera del navegador web. Se usa para crear servidores, aplicaciones y herramientas de línea de comandos.
+Aplicación server.js — Es el archivo de código que contiene la lógica de tu servidor web. Define las rutas, procesa las peticiones y envía las respuestas a los usuarios.
+Puerto — Es un número que identifica una puerta de entrada específica en el servidor. Tu aplicación usa el puerto 3000 para escuchar y responder las peticiones que llegan por ahí.
+Logs — Son archivos de registro que guardan un historial de todo lo que ocurre en el servidor: errores, accesos, peticiones recibidas y eventos importantes. Sirven para diagnosticar problemas.
