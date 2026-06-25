@@ -1,0 +1,5 @@
+Contraseñas fuertes — largas, con letras, números y símbolos.
+Proteger credenciales — guardar tokens y claves en .env, nunca en código público.
+Mínimo privilegio — dar solo los permisos necesarios a cada usuario.
+Usar .gitignore — evitar subir archivos sensibles a GitHub.
+Revisar logs antes de compartir — quitar datos personales y secretos antes de mostrarlos.
